@@ -1,0 +1,68 @@
+
+.sono{
+  font-family: "Sono", serif;
+  font-optical-sizing: auto;
+  font-weight: auto;
+  font-style: normal;
+  font-variation-settings:
+    "MONO" 1;
+}
+
+.major-mono-display-regular {
+  font-family: "Major Mono Display", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body{
+  background-color: black;
+}
+
+header{
+  text-align: center;
+  font-family: "Major Mono Display", serif;
+  color: crimson;
+  font-size: 12px;
+}
+
+nav a{
+  color: orange;
+  text-align: center;
+  font-family: "Sono", serif;
+  font-size: 10px;
+  text-decoration: none;
+}
+
+nav{
+  text-align: center;
+}
+
+.sect-000{
+  background-color: darkgrey;
+  color: yellow;
+  font-family: "Sono", serif;
+  font-size: 10px;
+  text-align: center;
+}
+
+.sect-000 a{
+  color: yellow;
+}
+
+.sect-001 p{
+  color: lime;
+  text-align: center;
+  font-size: 10px;
+  font-family: "Sono", serif;
+}
+
+.sect-001 a{
+  color: lime;
+}
+
+footer{
+  text-align: center;
+  font-family: "Sono", serif;
+  font-size: 10px;
+  color: blue;
+}
